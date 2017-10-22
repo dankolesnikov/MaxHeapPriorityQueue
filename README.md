@@ -1,10 +1,12 @@
-# MaxHeapPriorityQueue
-> Java implementation of MaxHeapPriorityQueue. 
+# Max Heap Priority Queue
+> Java implementation of Max Heap Priority Queue. 
 
 ![](header.png)
 
 # Description
-Pending
+This is an array representation of priority queue abstract data type using heap data structure. Keep in mind, my implementation starts at index 1 and ignores index 0 of the array. The program Waiting room mimics an emergency hospital room where patients are prioritized based on the priority number assigned by the user.
+
+Feel free to reach out to me if you have any questions or spot a mistake in the code!
 
 ## Usage
 
